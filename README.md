@@ -16,7 +16,7 @@ https://skillbridge-api-oaxx.onrender.com/
 
 ## How to Test
 Open:
-https://your-url.onrender.com/docs
+https://skillbridge-api-oaxx.onrender.com/
 
 Use Swagger UI to test endpoints like signup and login.
 
